@@ -1,6 +1,6 @@
 # Projeto de Agendamento de Tarefas
 
-Este projeto tem como objetivo agendar tarefas para praticar conceitos básicos de **ASP.NET Core** usando padrão **ViewModel** com **.NET 8.0** e **SQL Server**, utilizando **Entity Framework Core** como ORM.
+Este projeto faz parte do curso da treina web e tem como objetivo agendar tarefas para praticar conceitos básicos de **ASP.NET Core** usando padrão **ViewModel** com **.NET 8.0** e **SQL Server**, utilizando **Entity Framework Core** como ORM.
 
 ## Tecnologias e Frameworks
 
