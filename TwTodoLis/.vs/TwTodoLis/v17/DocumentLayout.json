@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|c:\\users\\pichau\\desktop\\estudos\\treinaweb\\twtodolis\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|c:\\users\\pichau\\desktop\\estudos\\treinaweb\\twtodolis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|c:\\users\\pichau\\desktop\\estudos\\treinaweb\\twtodolis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|c:\\users\\pichau\\desktop\\estudos\\treinaweb\\twtodolis\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|c:\\users\\pichau\\desktop\\estudos\\treinaweb\\twtodolis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|c:\\users\\pichau\\desktop\\estudos\\treinaweb\\twtodolis\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|solutionrelative:views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|c:\\users\\pichau\\desktop\\estudos\\treinaweb\\twtodolis\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|c:\\users\\pichau\\desktop\\estudos\\treinaweb\\twtodolis\\views\\todo\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|solutionrelative:views\\todo\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|c:\\users\\pichau\\desktop\\estudos\\treinaweb\\twtodolis\\viewmodel\\formtodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|solutionrelative:viewmodel\\formtodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|c:\\users\\pichau\\desktop\\estudos\\treinaweb\\twtodolis\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|solutionrelative:models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|c:\\users\\pichau\\desktop\\estudos\\treinaweb\\twtodolis\\viewmodel\\listtodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|solutionrelative:viewmodel\\listtodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|c:\\users\\pichau\\desktop\\estudos\\treinaweb\\twtodolis\\viewmodel\\detailstodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|solutionrelative:viewmodel\\detailstodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|c:\\users\\pichau\\desktop\\estudos\\treinaweb\\twtodolis\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|c:\\users\\pichau\\desktop\\estudos\\treinaweb\\twtodolis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A500DA75-9608-424F-A506-DE5F8DEF7F2F}|TwTodoLis.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:01:10.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T14:00:50.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T14:00:25.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:00:24.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T13:39:26.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Models\\Todo.cs",
+              "RelativeToolTip": "Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:26:49.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormTodoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\ViewModel\\FormTodoViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\FormTodoViewModel.cs",
+              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\ViewModel\\FormTodoViewModel.cs",
+              "RelativeToolTip": "ViewModel\\FormTodoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:41:03.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Views\\Todo\\Form.cshtml",
+              "RelativeDocumentMoniker": "Views\\Todo\\Form.cshtml",
+              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Views\\Todo\\Form.cshtml",
+              "RelativeToolTip": "Views\\Todo\\Form.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T18:30:53.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T17:58:53.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T17:27:31.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetailsTodoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\ViewModel\\DetailsTodoViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\DetailsTodoViewModel.cs",
+              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\ViewModel\\DetailsTodoViewModel.cs",
+              "RelativeToolTip": "ViewModel\\DetailsTodoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:21:07.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListTodoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\ViewModel\\ListTodoViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ListTodoViewModel.cs",
+              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\ViewModel\\ListTodoViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ListTodoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:20:45.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:16:16.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\estudos\\TreinaWeb\\TwTodoLis\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:52:45.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
